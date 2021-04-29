@@ -2,10 +2,10 @@ import React from 'react'
 
 const Title = () => {
   return (
-    <div>
+    <div className="title">
       <h1>InstaClone</h1>
-      <h2>My Inspirations</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h2>My Photo Gallery</h2>
+      <p>Pictures that inspire me</p>
     </div>
   );
 }
